@@ -1,0 +1,48 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Fasthand', cursive;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+a {
+    font-size: 20px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: white;
+    color: black;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#back{
+    font-size: 25px;
+    float: right;
+    margin:2px;
+    color:azure;
+    background-color: black;
+    font-family: 'Fasthand', cursive;
+}
+
+.hi{
+    font-size: 18px;
+    padding: 8px;
+    position: center;
+}
+
+#status{
+    position: center;
+}
